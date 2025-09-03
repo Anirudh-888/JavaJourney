@@ -13,6 +13,22 @@ public class Break_and_Continue {
             }
             //this will skip the number 4 and then print till 10
             System.out.println(j);
+            
+            /*Output for the break loop is 0
+             * 1
+             * 2
+             * 3
+             * Output for the continue loop is 
+             * 0
+             * 1
+             * 2
+             * 3
+             * 5
+             * 6
+             * 7
+             * 8
+             * 9
+             */
         }
     }
     
