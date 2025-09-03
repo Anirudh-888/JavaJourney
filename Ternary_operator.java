@@ -1,4 +1,4 @@
-public class Ternary_opertor {
+public class Ternary_operator {
     public static void main(String[] args){
         int age = 17;
         //this is the usage of ternary operator
