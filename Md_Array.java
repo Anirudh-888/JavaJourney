@@ -9,7 +9,7 @@ public class Md_Array {
         }
     }
     //This is to access the array elements by the index of the array
-    System.out.println(arrray[0][1]);
+    System.out.println(array [1][1]);
     }
     
 }
