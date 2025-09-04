@@ -11,8 +11,9 @@ public class Abstraction {
         }
     }
     static class Cat extends Animal{
+        @Override
         public void AnimalSound(){
-            System.out.println("Meow 🐈");
+            System.out.println("Meow ");
         }
 
     }
