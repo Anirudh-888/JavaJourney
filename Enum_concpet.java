@@ -13,6 +13,10 @@ public class Enum_concpet {
         System.out.println((Var));
         System.out.println((Var2));
         System.out.println((Var3));
+        //To print all the values declared in the enum we have to use a for loop
+        for(Levels var4 : Levels.values()){
+            System.out.println(var4);
+        }
     }
     
 }
