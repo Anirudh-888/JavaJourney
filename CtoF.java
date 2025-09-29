@@ -14,7 +14,9 @@ public class CtoF {
 
       /*NOTES for this code 
         1. Any default number will be taken as the double value but if we try to perform any calculation the default value is double we have to convert it
-        
+        2.Two type of conversion 
+          a) Explicit we should do it from our side 
+          b) Implicit System will do it for us and we should be ready to face the losses if we are converting from higher to lower.
        */
 
     }
