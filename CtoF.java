@@ -6,7 +6,8 @@ public class CtoF {
       float cel = sc.nextFloat();
       //here if we give 9/5 it will take it as int and give the value as int and it will make it 0 but if we give it 9.0/5.0,
       //then we are getting the same data type so it is correct
-      System.out.println("The corresponding celcuis in fahrenheit is"+((cel)*(9.0/5.0)+32));
+      System.out.println("The corresponding celcuis in fahrenheit is"+
+      ((cel)*(9.0/5.0)+32));
       System.out.println("Enter the reading in fahrenheit");
       float fahr = sc.nextFloat();
       System.out.println("The corresponding reading in celcius is"+((fahr-32)*(5.0/9.0)));
